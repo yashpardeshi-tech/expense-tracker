@@ -28,3 +28,5 @@ Expense-Tracker/
 ├── expense_tracker.py
 ├── expenses.csv
 └── README.md
+
+![Expense Tracker Screenshot](screenshot.png)
